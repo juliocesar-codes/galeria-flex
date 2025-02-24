@@ -1,0 +1,10 @@
+## GALERIA FLEX
+
+## TECNOLOGIAS UTILIZADAS
+
+* HTML
+* CSS
+
+## AUTOR
+
+Julio Cesar
